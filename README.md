@@ -50,6 +50,5 @@
       <td><a href="https://github.com/Dihan141/brackeys-game-jam-2023.2" rel="nofollow"><strong>Diving Deeper</strong></a></td>
       <td>My first game development project which we used to participate in the Brackleys GameJam 2023.2 with the theme "Diving Deeper"</td>
     </tr>
-    
-    </tbody>
-    </table>
+</tbody>
+</table>
