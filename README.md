@@ -32,23 +32,23 @@
 </tr>
 <tr>
       <td><a href="https://github.com/maria-iut1234/Cafe-IUTea" rel=“nofollow"><strong>Cafe IUTea</strong></a></td>
-      <td>The project is regarding a management system for a cafe or similar shop. The focal point of this project was the Database Design, which was carried out very carefully. Several Triggers and PL/SQL procedures were used to automate the management of the inventory system. The technology stack chosen for developing this project were HTML, CSS, JS, PHP and mySQL. This project was a part of Database Management Systems II Lab (CSE 4410) of BSc in Software Engineering, IUT</td>
+      <td>The project is regarding a management system for a cafe or similar shop. The focal point of this project was the Database Design, which was carried out very carefully. Several Triggers and PL/SQL procedures were used to automate the management of the inventory system. The technology stack chosen for developing this project were HTML, CSS, JS, PHP and mySQL. This project was a part of Database Management Systems II Lab (CSE 4410) of BSc in Software Engineering, IUT.</td>
 </tr>
   <tr>
       <td><a href="https://github.com/51AN/EnzOrg" rel="nofollow"><strong>EnzOrg</strong></a></td>
-      <td>The project is regarding a task/project management website which enables users to maintain and monitor everyday tasks both on a personal and group level. It was built with the constraint of using no frameworks. It was the first big project I was lucky to be a part of. We learned the basics of frontend and backend web development. The technology stack chosen for developing this project were HTML, CSS, JS, PHP and mySQL. This project was a part of Software Project Lab-1(SWE 4304) course of BSc in Software Engineering, IUT</td>
+      <td>The project is regarding a task/project management website which enables users to maintain and monitor everyday tasks both on a personal and group level. It was built with the constraint of using no frameworks. It was the first big project I was lucky to be a part of. We learned the basics of frontend and backend web development. The technology stack chosen for developing this project were HTML, CSS, JS, PHP and mySQL. This project was a part of Software Project Lab-1(SWE 4304) course of BSc in Software Engineering, IUT.</td>
     </tr>
  <tr>
       <td><a href="https://github.com/nazmul4532/Markooz-IUT" rel=“nofollow"><strong>Markooz IUT</strong></a></td>
-      <td>The project is regarding a e-commerce website tailored for IUTians, related to IUT, by an IUTian. In this project, we learned more about the industry standards and folder structures for a MERN project. We also learned working with NoSQL for the first time. The MERN stack was chosen for developing this project. This project was a part of Software Project Labs-II, (SWE 4404) of BSc in Software Engineering, IUT</td>
+      <td>The project is regarding a e-commerce website tailored for IUTians, related to IUT, by an IUTian. In this project, we learned more about the industry standards and folder structures for a MERN project. We also learned working with NoSQL for the first time. The MERN stack was chosen for developing this project. This project was a part of Software Project Labs-II, (SWE 4404) of BSc in Software Engineering, IUT.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nazmul4532/Server-Programming-Project" rel=“nofollow"><strong>Online Marketplace</strong></a></td>
-      <td>The project is regarding a e-commerce website. This project is mainly focused on the Backend. Within a very short span of time, I developed a multi-user type e-commerce with features like Google O-Auth, multer for local storage and Inventory management. The technology stack chosen for developing this project were Ejs, Express, Mongo, Node. This project was a part of Server Programming Lab, (SWE 4538) of BSc in Software Engineering, IUT</td>
+      <td>The project is regarding a e-commerce website. This project is mainly focused on the Backend. Within a very short span of time, I developed a multi-user type e-commerce with features like Google O-Auth, multer for local storage and Inventory management. The technology stack chosen for developing this project were Ejs, Express, Mongo, Node. This project was a part of Server Programming Lab, (SWE 4538) of BSc in Software Engineering, IUT.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Dihan141/brackeys-game-jam-2023.2" rel="nofollow"><strong>Diving Deeper</strong></a></td>
-      <td>My first game development project which we used to participate in the Brackleys GameJam 2023.2 with the theme "Diving Deeper"</td>
+      <td>My first game development project which we used to participate in the Brackleys GameJam 2023.2 with the theme "Diving Deeper".</td>
     </tr>
 </tbody>
 </table>
