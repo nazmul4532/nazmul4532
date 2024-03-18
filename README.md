@@ -26,7 +26,7 @@
   </thead>
   <tbody>
 <tr>
-      <td><a href="https://github.com/mirzaazwad/SWE_4506_Design_Project_I_DataAnalytica.io" rel="nofollow"><strong>DataAnalytica.io</strong></a></td>
+      <td><a href="https://github.com/nazmul4532/SWE_4506_Design_Project_I_Development" rel="nofollow"><strong>DataAnalytica.io</strong></a></td>
       <td>The project is regarding a Data Analysis Website similar to Power BI or Tableau. The goal was to bring the power of Machine Learning in Analysis to novice users, and provide analysis on provided Data without need for any Data Analysts. The project involves machine learning simulations, it was built using React, Typescript and Python-Django with mongoDB as the database. The frontend was deployed using “Netlify" and the backend using “Cloudrun”. This project was a part of Design Project - I Lab, (SWE 4506) of BSc in Software Engineering, IUT.
 </td>
 </tr>
