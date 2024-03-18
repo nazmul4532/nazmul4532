@@ -1,4 +1,4 @@
-#Hey There! 👋 I am M M Nazmul Hossain. I like to go by Nazz. 
+# Hey There! 👋 I am M M Nazmul Hossain. I like to go by Nazz. 
 
 ### I am currently a junior year student pursuing a BSc in Software Engineering at the Islamic University of Technology(IUT), Bangladesh. I am eager to learn, and develop new skills.
 
