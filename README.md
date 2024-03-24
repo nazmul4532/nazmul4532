@@ -84,6 +84,12 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+# Top Repositories
+
+[![DataAnalytica.io](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=SWE_4506_Design_Project_I_Development&theme=blueberry)](https://github.com/nazmul4532/SWE_4506_Design_Project_I_Development)
+[![MarkoozIUT](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=Markooz-IUT&theme=blueberry)](https://github.com/nazmul4532/Markooz-IUT)
+[![Cafe-IUTea](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Cafe-IUTea&theme=blueberry)](https://github.com/maria-iut1234/Cafe-IUTea)
+[![EnzOrg](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=EnzOrg&theme=blueberry)](https://github.com/nazmul4532/EnzOrg)
 
 
 #### 🌡️ Most Used Languages
@@ -124,7 +130,7 @@
       <td>The project is regarding a management system for a cafe or similar shop. The focal point of this project was the Database Design, which was carried out very carefully. Several Triggers and PL/SQL procedures were used to automate the management of the inventory system. The technology stack chosen for developing this project were HTML, CSS, JS, PHP and mySQL. This project was a part of Database Management Systems II Lab (CSE 4410) of BSc in Software Engineering, IUT.</td>
 </tr>
   <tr>
-      <td><a href="https://github.com/51AN/EnzOrg" rel="nofollow"><strong>EnzOrg</strong></a></td>
+      <td><a href="https://github.com/nazmul4532/EnzOrg" rel="nofollow"><strong>EnzOrg</strong></a></td>
       <td>The project is regarding a task/project management website which enables users to maintain and monitor everyday tasks both on a personal and group level. It was built with the constraint of using no frameworks. It was the first big project I was lucky to be a part of. We learned the basics of frontend and backend web development. The technology stack chosen for developing this project were HTML, CSS, JS, PHP and mySQL. This project was a part of Software Project Lab-1(SWE 4304) course of BSc in Software Engineering, IUT.</td>
     </tr>
  <tr>
