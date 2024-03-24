@@ -84,14 +84,12 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# Top Repositories
-
+<!--# Top Repositories
 [![DataAnalytica.io](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=DataAnalytica.io&theme=blueberry)](https://github.com/nazmul4532/DataAnalytica.io)
 [![MarkoozIUT](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=Markooz-IUT&theme=blueberry)](https://github.com/nazmul4532/Markooz-IUT)
 [![Cafe-IUTea](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=Cafe-IUTea&theme=blueberry)](https://github.com/nazmul4532/Cafe-IUTea)
 [![EnzOrg](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=EnzOrg&theme=blueberry)](https://github.com/nazmul4532/EnzOrg)
-
-
+-->
 #### 🌡️ Most Used Languages
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
