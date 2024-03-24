@@ -136,7 +136,7 @@
       <td>The project is regarding a e-commerce website tailored for IUTians, related to IUT, by an IUTian. In this project, we learned more about the industry standards and folder structures for a MERN project. We also learned working with NoSQL for the first time. The MERN stack was chosen for developing this project. This project was a part of Software Project Labs-II, (SWE 4404) of BSc in Software Engineering, IUT.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nazmul4532/Server-Programming-Project" rel=“nofollow"><strong>Online Marketplace</strong></a></td>
+      <td><a href="https://github.com/nazmul4532/Server-Programming-Project" rel=“nofollow"><strong>Marketplace</strong></a></td>
       <td>The project is regarding a e-commerce website. This project is mainly focused on the Backend. Within a very short span of time, I developed a multi-user type e-commerce with features like Google O-Auth, multer for local storage and Inventory management. The technology stack chosen for developing this project were Ejs, Express, Mongo, Node. This project was a part of Server Programming Lab, (SWE 4538) of BSc in Software Engineering, IUT.</td>
     </tr>
     <tr>
