@@ -11,20 +11,22 @@
 
 #### 📊 Contribution Graph
 <p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul4532&theme=github_dark" alt=“Nazmul-Hossain" align = "center"/></p>
+
+
 #### 🤖 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&theme=dark" alt="Nazmuls's GitHub stats">
-</div>
-#### 🌡️ Most Used Languags
+<a> 
+  <a href="https://github.com/nazmul4532">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=blueberry&border=6281A7&background=0D1117" alt="Nazmul's GitHub streak" height="260px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/nazmul4532"><img alt="Nazmul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&count_private=true&theme=blueberry&border_color=6281A7&bg_color=0D1117&title_color=8BB9DD&icon_color=86BBD8&text_color=9EBAC7" height="260px" width="49.5%"/></a>    
+</a>
+
+#### 🌡️ Most Used Languages
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nazmul4532&theme=dark" alt="Top Langs">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nazmul4532&theme=blueberry" alt="Top Langs">
   </a>
 </div>
-
-#### 🔥 Streaks
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt=“Nazmul Hossain" /></p>
-
 
 ### 🔭 My Projects
 <table>
