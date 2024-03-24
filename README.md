@@ -11,11 +11,11 @@
 
 #### 📊 Contribution Graph
 <p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul4532&theme=github_dark" alt=“Nazmul-Hossain" align = "center"/></p>
-
+#### 🤖 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&theme=dark" alt="Nazmuls's GitHub stats">
 </div>
-
+#### 🌡️ Most Used Languags
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nazmul4532&theme=dark" alt="Top Langs">
