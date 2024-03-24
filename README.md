@@ -12,9 +12,9 @@
 #### 📊 Contribution Graph
 <p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul4532&theme=github_dark" alt=“Nazmul-Hossain" align = "center"/></p>
 
-<p align="center">![Nazmuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&theme=dark)</p>
+<div align="center">![Nazmuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&theme=dark)</div>
 
-<p align="center">[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nazmul4532&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+<div align="center">[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nazmul4532&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 #### 🔥 Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt=“Nazmul Hossain" /></p>
