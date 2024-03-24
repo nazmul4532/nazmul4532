@@ -86,9 +86,9 @@
 
 # Top Repositories
 
-[![DataAnalytica.io](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=SWE_4506_Design_Project_I_Development&theme=blueberry)](https://github.com/nazmul4532/SWE_4506_Design_Project_I_Development)
+[![DataAnalytica.io](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=DataAnalytica.io&theme=blueberry)](https://github.com/nazmul4532/DataAnalytica.io)
 [![MarkoozIUT](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=Markooz-IUT&theme=blueberry)](https://github.com/nazmul4532/Markooz-IUT)
-[![Cafe-IUTea](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Cafe-IUTea&theme=blueberry)](https://github.com/maria-iut1234/Cafe-IUTea)
+[![Cafe-IUTea](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=Cafe-IUTea&theme=blueberry)](https://github.com/nazmul4532/Cafe-IUTea)
 [![EnzOrg](https://github-readme-stats.vercel.app/api/pin/?username=nazmul4532&repo=EnzOrg&theme=blueberry)](https://github.com/nazmul4532/EnzOrg)
 
 
@@ -126,7 +126,7 @@
 </td>
 </tr>
 <tr>
-      <td><a href="https://github.com/maria-iut1234/Cafe-IUTea" rel=“nofollow"><strong>Cafe IUTea</strong></a></td>
+      <td><a href="https://github.com/nazmul4532/Cafe-IUTea" rel=“nofollow"><strong>Cafe IUTea</strong></a></td>
       <td>The project is regarding a management system for a cafe or similar shop. The focal point of this project was the Database Design, which was carried out very carefully. Several Triggers and PL/SQL procedures were used to automate the management of the inventory system. The technology stack chosen for developing this project were HTML, CSS, JS, PHP and mySQL. This project was a part of Database Management Systems II Lab (CSE 4410) of BSc in Software Engineering, IUT.</td>
 </tr>
   <tr>
