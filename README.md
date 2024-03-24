@@ -4,7 +4,7 @@
 
 > Quote: "Commit to your goals, and success will follow.”
 
-#### 📫 How to reach me: 
+# 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/nazmul-hossain-165642250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nazmulhossain@iut-dhaka.edu?subject=Hello%20Nazmul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.facebook.com/nazmul4532/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
