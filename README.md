@@ -93,7 +93,7 @@
 #### 🌡️ Most Used Languages
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nazmul4532&langs_count=10&layout=compact&theme=blueberry&custom_title=Nazmul's%20Most%20Used%20Languages&border_color=caafe2" height="260px"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nazmul4532&langs_count=10&layout=compact&theme=blueberry&custom_title=Nazmul's%20Most%20Used%20Languages&border_color=6281A7" height="260px"/>
 
   </a>
 </div>
@@ -105,7 +105,7 @@
 #### 🤖 GitHub Stats
 <a> 
   <a href="https://github.com/nazmul4532">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=blueberry&border=6281A7&background=0D1117" alt="Nazmul's GitHub streak" height="260px" width="49.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=blueberry&=6281A7&background=0D1117" alt="Nazmul's GitHub streak" height="260px" width="49.5%"/>
   </a>
   <a href="https://github.com/nazmul4532"><img alt="Nazmul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&count_private=true&theme=blueberry&border_color=6281A7&bg_color=0D1117&title_color=8BB9DD&icon_color=86BBD8&text_color=9EBAC7" height="260px" width="49.5%"/></a>    
 </a>
