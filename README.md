@@ -99,13 +99,13 @@
 </div>
 
 #### 📊 Contribution Graph
-<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul4532&theme=github_dark" alt=“Nazmul-Hossain" align = "center"/></p>
+<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul4532&theme=blueberry&border_color=6281A7" alt=“Nazmul-Hossain" align = "center"/></p>
 
 
 #### 🤖 GitHub Stats
 <a> 
   <a href="https://github.com/nazmul4532">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=blueberry&=6281A7&background=0D1117" alt="Nazmul's GitHub streak" height="260px" width="49.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=blueberry&border_color=6281A7&background=0D1117&title_color=8BB9DD&icon_color=86BBD8&text_color=9EBAC7" alt="Nazmul's GitHub streak" height="260px" width="49.5%"/>
   </a>
   <a href="https://github.com/nazmul4532"><img alt="Nazmul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&count_private=true&theme=blueberry&border_color=6281A7&bg_color=0D1117&title_color=8BB9DD&icon_color=86BBD8&text_color=9EBAC7" height="260px" width="49.5%"/></a>    
 </a>
