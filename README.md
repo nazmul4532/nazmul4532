@@ -93,7 +93,7 @@
 #### 🌡️ Most Used Languages
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nazmul4532&langs_count=10&layout=compact&theme=blueberry&custom_title=Maria's%20Most%20Used%20Languages&border_color=caafe2" height="260px"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nazmul4532&langs_count=10&layout=compact&theme=blueberry&custom_title=Nazmul's%20Most%20Used%20Languages&border_color=caafe2" height="260px"/>
 
   </a>
 </div>
