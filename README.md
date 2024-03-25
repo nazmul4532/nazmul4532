@@ -116,9 +116,9 @@
 #### 🤖 GitHub Stats
 <a> 
   <a href="https://github.com/nazmul4532">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=blueberry&border_color=6281A7&background=0D1117&title_color=8BB9DD&icon_color=86BBD8&text_color=9EBAC7" alt="Nazmul's GitHub streak" height="260px" width="49.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul4532&theme=blueberry&border_color=6281A7&background=0D1117&title_color=8BB9DD&icon_color=86BBD8&text_color=9EBAC7" alt="Nazmul's GitHub streak" height="300px" width="49.5%"/>
   </a>
-  <a href="https://github.com/nazmul4532"><img alt="Nazmul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&count_private=true&show=prs_merged&theme=blueberry&border_color=FFFFFF&bg_color=0D1117&hide=contribs&text_color=00D8A8&icon_color=00D8A8&height=200" height="270px" width="49.5%"/></a>    
+  <a href="https://github.com/nazmul4532"><img alt="Nazmul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmul4532&show_icons=true&count_private=true&show=prs_merged&theme=blueberry&border_color=FFFFFF&bg_color=0D1117&hide=contribs&text_color=00D8A8&icon_color=00D8A8" height="300px" width="49.5%"/></a>    
 </a>
 
 ### 🔭 My Projects
