@@ -13,6 +13,8 @@
 <a href="https://www.kaggle.com/nazmul4532"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;
 <!--<a href="https://leetcode.com/Nazmul4532" target="_blank"><img src="https://img.shields.io/badge/leetcode-a2842e?&style=for-the-badge&logo=leetcode&logoColor=white" alt="nazmul4532"  /></a>&nbsp;-->
 
+[![HitCount](http://hits.dwyl.com/nazmul4532.svg)](http://hits.dwyl.com/nazmul4532)
+
 # :briefcase: Technical Skills
 
 ### Languages
