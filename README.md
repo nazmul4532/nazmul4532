@@ -4,6 +4,10 @@
 
 > Quote: "Commit to your goals, and success will follow.”
 
+<a href="https://komarev.com/ghpvc/?username=nazmul4532">
+  <img align="right" src="https://komarev.com/ghpvc/?username=nazmul4532&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 # 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/nazmul-hossain-165642250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nazmulhossain@iut-dhaka.edu?subject=Hello%20Nazmul"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
@@ -12,8 +16,6 @@
 <a href="https://codeforces.com/profile/nazmul4532" target="_blank"><img src="https://img.shields.io/badge/codeforces-f7c946?&style=for-the-badge&logo=codeforces&logoColor=black" alt="nazmul4532"  /></a>&nbsp;
 <a href="https://www.kaggle.com/nazmul4532"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;
 <!--<a href="https://leetcode.com/Nazmul4532" target="_blank"><img src="https://img.shields.io/badge/leetcode-a2842e?&style=for-the-badge&logo=leetcode&logoColor=white" alt="nazmul4532"  /></a>&nbsp;-->
-
-[![HitCount](http://hits.dwyl.com/nazmul4532.svg)](http://hits.dwyl.com/nazmul4532)
 
 # :briefcase: Technical Skills
 
