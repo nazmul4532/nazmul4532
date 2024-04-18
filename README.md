@@ -4,9 +4,7 @@
 
 > Quote: "Commit to your goals, and success will follow.”
 
-<a href="https://komarev.com/ghpvc/?username=nazmul4532">
-  <img align="right" src="https://komarev.com/ghpvc/?username=nazmul4532&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul4532&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul4532" /> </p>
 
 # 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/nazmul-hossain-165642250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
